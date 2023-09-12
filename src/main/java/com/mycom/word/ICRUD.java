@@ -1,9 +1,9 @@
 package com.mycom.word;
 
 public interface ICRUD { // interface of CRUD
-    public Object add();
-    public int update(Object obj);
-    public int delete(Object obj);
-    public void selectOne(int id);
+    public Object add(); // for adding words
+    public int update(Object obj); // for updating words
+    public int delete(Object obj); // for deleting words
+    public void selectOne(int id); // for selecting words
 }
 
