@@ -32,3 +32,4 @@
 1|proceed|진행하다[되다]
 1|reputation|평판, 명성
 1| apple|사과
+1| grape|포도
