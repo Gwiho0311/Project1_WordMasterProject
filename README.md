@@ -100,12 +100,24 @@ Function
   34 *            apple  사과
 
 
+![error](screenshots/1-1.png)
+![error](screenshots/1-2.png)
+
 
 + commend 2: 입력된 난이도와 같은 난이도를 가지고 있는 단어들을 보여준다.
 
+![error](screenshots/2.png)
+
+
+
 + commend 3: 단어를 검색한다.
 
+![error](screenshots/3.png)
+
 + commend 4: 단어장에 단어를 추가한다.
+
+![error](screenshots/4-1.png)
+![error](screenshots/4-2.png)
 
   '''=> 원하는 메뉴는? 4
   4
@@ -116,8 +128,22 @@ Function
 
 + commend 5: 단어장에 있는 단어를 수정한다.
 
+![error](screenshots/5-1.png)
+![error](screenshots/5-2.png)
+
+
 + commend 6: 단어장에 저장되어 있는 단어를 삭제한다.
 
+![error](screenshots/6-1.png)
+![error](screenshots/6-2.png)
+
+
 + commend 7: 변화된 것을 파일에 저장한다.
++ 
+![error](screenshots/7-1.png)
+![error](screenshots/7-2.png)
 
 + commend 0: 프로그램을 종료한다.
+
+![error](screenshots/0.png)
+
