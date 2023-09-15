@@ -128,7 +128,7 @@ Function
 
 + commend 5: 단어장에 있는 단어를 수정한다.
 
-![error](./Screenshots/5-1.png)
+![error](Screenshots/5-1.png)
 ![error](Screenshots/5-2.png)
 
 
