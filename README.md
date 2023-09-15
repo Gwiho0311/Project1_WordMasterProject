@@ -142,6 +142,7 @@ Function
 + 
 ![error](Screenshots/7-1.png)
 ![error](Screenshots/7-2.png)
+![error](Screenshots/7번결과.png)
 
 + commend 0: 프로그램을 종료한다.
 
